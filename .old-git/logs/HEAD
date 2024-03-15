@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 9b458c65110ef0f889eaebf2a14c85c7c3c73341 Quý Minh <ADMIN@MSI.(none)> 1679744814 +0700	clone: from https://github.com/darkcrazy2106/project_myPC.git
+9b458c65110ef0f889eaebf2a14c85c7c3c73341 c84e3c8b998acd2acf019c1f86e44285847a9eb5 Quy <darkcrazy2106@yahoo.com> 1679744932 +0700	commit: MyPC-1 First commit
+c84e3c8b998acd2acf019c1f86e44285847a9eb5 eedf9480497c9acdcc250f7cd1b962f6cb0def42 Nhat Trung <incursio40@gmail.com> 1680424871 +0700	commit: update copy right + logo + map
+eedf9480497c9acdcc250f7cd1b962f6cb0def42 a863df86fb16b81957e41cddbf7299701b9e3abd Nhat Trung <incursio40@gmail.com> 1680617347 +0700	commit: update xoa tag voucher trong account profile
+a863df86fb16b81957e41cddbf7299701b9e3abd 1c4c1bc32ba224c9ed4c5c5e542e25e362fc96de Nhat Trung <incursio40@gmail.com> 1680618257 +0700	commit: update xoa message trong contact us
+1c4c1bc32ba224c9ed4c5c5e542e25e362fc96de 94b3dfee33dd4afb41594dfdfdc7bb1a468689ff Nhat Trung <incursio40@gmail.com> 1680791352 +0700	commit: update
+94b3dfee33dd4afb41594dfdfdc7bb1a468689ff f77e36350cb20caa7bce6944908c9be66549fcc1 Nhat Trung <incursio40@gmail.com> 1681189540 +0700	pull origin: Fast-forward
+f77e36350cb20caa7bce6944908c9be66549fcc1 40b40b687c93af0c8ffb994b77ae1f7b01bdab3b Nhat Trung <incursio40@gmail.com> 1682079372 +0700	commit: commit
+40b40b687c93af0c8ffb994b77ae1f7b01bdab3b 40b40b687c93af0c8ffb994b77ae1f7b01bdab3b Nhat Trung <incursio40@gmail.com> 1682160610 +0700	checkout: moving from main to main
+40b40b687c93af0c8ffb994b77ae1f7b01bdab3b f77e36350cb20caa7bce6944908c9be66549fcc1 Nhat Trung <incursio40@gmail.com> 1682160712 +0700	checkout: moving from main to f77e36350cb20caa7bce6944908c9be66549fcc1
+f77e36350cb20caa7bce6944908c9be66549fcc1 40b40b687c93af0c8ffb994b77ae1f7b01bdab3b Nhat Trung <incursio40@gmail.com> 1682160718 +0700	checkout: moving from f77e36350cb20caa7bce6944908c9be66549fcc1 to main
+40b40b687c93af0c8ffb994b77ae1f7b01bdab3b 0ba57157e5924d15503e3e40d4a893477c3cb933 Nhat Trung <incursio40@gmail.com> 1682160769 +0700	checkout: moving from main to categoryList
+0ba57157e5924d15503e3e40d4a893477c3cb933 940bd376815e5f62aae0da4500e49183e75e72d6 Nhat Trung <incursio40@gmail.com> 1682160781 +0700	checkout: moving from categoryList to main
+940bd376815e5f62aae0da4500e49183e75e72d6 88d61c4d43d216b8ea1ae43a7345140612518f6a Nhat Trung <incursio40@gmail.com> 1682171858 +0700	commit: new version
+88d61c4d43d216b8ea1ae43a7345140612518f6a 729c90e97d84c53b8d178058e078f22fe00a633d Nhat Trung <incursio40@gmail.com> 1682254834 +0700	commit: Update Category Samsung 23/4
+729c90e97d84c53b8d178058e078f22fe00a633d ce07b00a35278b4a593896be4ce132e95a04cab6 Nhat Trung <incursio40@gmail.com> 1682313081 +0700	commit: cho file pdf vao thoi
+ce07b00a35278b4a593896be4ce132e95a04cab6 3e236c5222f1018103d81f32c0de91a650a5f800 Nhat Trung <incursio40@gmail.com> 1682335853 +0700	commit: update documentation
+3e236c5222f1018103d81f32c0de91a650a5f800 4e938d206c54fdc8c970fce92acebdda0b1fbe03 Nhat Trung <incursio40@gmail.com> 1682579223 +0700	checkout: moving from main to 4e938d206c54fdc8c970fce92acebdda0b1fbe03
+4e938d206c54fdc8c970fce92acebdda0b1fbe03 515cfe3fafcd751f23626bdc2f7cf16bc403b7de Nhat Trung <incursio40@gmail.com> 1682579822 +0700	commit: update 27*4
+515cfe3fafcd751f23626bdc2f7cf16bc403b7de 4e938d206c54fdc8c970fce92acebdda0b1fbe03 Nhat Trung <incursio40@gmail.com> 1682579850 +0700	checkout: moving from 515cfe3fafcd751f23626bdc2f7cf16bc403b7de to 4e938d206c54fdc8c970fce92acebdda0b1fbe03
+4e938d206c54fdc8c970fce92acebdda0b1fbe03 3e236c5222f1018103d81f32c0de91a650a5f800 Nhat Trung <incursio40@gmail.com> 1682579893 +0700	checkout: moving from 4e938d206c54fdc8c970fce92acebdda0b1fbe03 to main
+3e236c5222f1018103d81f32c0de91a650a5f800 b1ddf854aee2f02f21fea10d325185c8363a6772 Nhat Trung <incursio40@gmail.com> 1682579895 +0700	pull origin main: Merge made by the 'ort' strategy.
+b1ddf854aee2f02f21fea10d325185c8363a6772 b1ddf854aee2f02f21fea10d325185c8363a6772 Nhat Trung <incursio40@gmail.com> 1682579990 +0700	checkout: moving from main to main
+b1ddf854aee2f02f21fea10d325185c8363a6772 6f0c6403e289f64ac043b0788e839b6f1ce2f1ac Nhat Trung <incursio40@gmail.com> 1682580002 +0700	reset: moving to 6f0c6403e289f64ac043b0788e839b6f1ce2f1ac
+6f0c6403e289f64ac043b0788e839b6f1ce2f1ac 4219d69348e87e64da31bc02d85b8f6a3a22920b Nhat Trung <incursio40@gmail.com> 1682580639 +0700	commit: lai update
+4219d69348e87e64da31bc02d85b8f6a3a22920b 4219d69348e87e64da31bc02d85b8f6a3a22920b Nhat Trung <incursio40@gmail.com> 1682580710 +0700	checkout: moving from main to main
+4219d69348e87e64da31bc02d85b8f6a3a22920b 2422db55a2ae285c89dfc3eb665151d89cde952f Nhat Trung <incursio40@gmail.com> 1682580711 +0700	pull origin main: Fast-forward
